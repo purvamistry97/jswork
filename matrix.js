@@ -13,4 +13,5 @@ arr.forEach((item1, index1) =>{
         A[arr.length - 1 - index2].push(arr[index1][index2]);
     })
 })
+console.log('git update');
 console.log(A);
